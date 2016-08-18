@@ -6,6 +6,36 @@ body {
   position: relative;
 }
 
+header { 
+7   padding: 20px 0; 
+8 } 
+9 
+ 
+10 header .row, 
+11 footer .row { 
+12   display: flex; 
+13   align-items: center; 
+14 } 
+15 
+ 
+16 header h1 { 
+17   font-weight: 700; 
+18   margin: 0; 
+19 } 
+20 
+ 
+21 header nav { 
+22   display: flex; 
+23   justify-content: flex-end; 
+24 } 
+25 
+ 
+26 header p { 
+27   padding: 0 20px; 
+28   margin: 0; 
+29 } 
+
+
 /* Initial menu */
 .menu {
   background: #202024 url('http://s3.amazonaws.com/codecademy-content/courses/ltp2/img/uber/black-thread.png') repeat left top;
