@@ -18,8 +18,8 @@ body {
 /* Basic styling */
 
 .jumbotron {
-  background-image: url('images/public-domain-images-free-stock-photos-high-quality-resolution-downloads-public-domain-archive-6-1000x664.jpg'); 
-  height: 50%;
+  background-image: url('http://s3.amazonaws.com/codecademy-content/courses/ltp2/img/uber/bg.png'); 
+  height: 100%;
   -webkit-background-size: cover;
      -moz-background-size: cover;
        -o-background-size: cover;
