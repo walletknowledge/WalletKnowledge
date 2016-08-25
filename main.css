@@ -101,14 +101,14 @@ li a:hover, .dropdown:hover .dropbtn {
 	}
 }
 
-/*highlight current menu tab so user knows which page they are on. Have to update <a> for each actual webpage*/
+/*highlight current menu tab so user knows which page they are on. Have to update <a> for each actual webpage
 .navbar a.dropbtn-active {
     background-color: #005580;
     color: white;}
 .navbar a:hover:not(.active) {
     background-color: #555;
     color: white;}
-
+*/
 /*12 columns for responsive viewing dependent upon device screen size @media*/
 .col-1 {width: 8.33%;}
 .col-2 {width: 16.66%;}
