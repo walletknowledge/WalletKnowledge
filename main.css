@@ -5,6 +5,10 @@
 	padding:10px 10px 10px 10px;
 	border: 1px solid gray;
 }
+
+.displayed {
+	margin: auto;
+}
 .logo {
 	margin: auto;
 	width: 50%;
