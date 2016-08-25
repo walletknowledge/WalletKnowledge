@@ -121,9 +121,9 @@ li a:hover, .dropdown:hover .dropbtn {
 .content h1 {
 	font-family: Verdana;
 	font-size: 20px;
-	
+	color: #404040;
 }
 
 .content p {
-	
+	color: #737373;
 }
