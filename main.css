@@ -75,7 +75,7 @@ li a:hover, .dropdown:hover .dropbtn {
 	.menu-trigger {
 		display: block;
 		color: white;
-		background-color: #f9f9f9;
+		background-color: #1ab2ff;
 		padding: 10px;
 		margin-left: -9px;
 	    	overflow: hidden;
@@ -92,6 +92,7 @@ li a:hover, .dropdown:hover .dropbtn {
 		display: block;}
 	.nav-menu ul li {  /*styling to give menu lines between links*/
 		float: none;	
+		background-color: #f9f9f9;
 		border-bottom: 1px solid #bfbfbf;}
 	.nav-menu ul li:last-child { /*styling to give menu lines between links*/
 		border-bottom: none}
