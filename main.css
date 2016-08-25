@@ -98,7 +98,7 @@ li a:hover, .dropdown:hover .dropbtn {
 		background-color: #4dc3ff;
 	}
 	.navbar li {
-	float: right;}
+	margin-left: auto;}
 }
 
 /*highlight current menu tab so user knows which page they are on. Have to update <a> for each actual webpage
