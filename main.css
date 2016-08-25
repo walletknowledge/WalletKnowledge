@@ -3,7 +3,9 @@
 	text-align: center;
 	padding:10px 10px 10px 10px;
 }
-
+.logo {
+	margin: auto;
+}
 /* Nav Menu styling for responsive navigation*/
 .nav-menu {
     list-style-type: none;
