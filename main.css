@@ -115,7 +115,8 @@ li a:hover, .dropdown:hover .dropbtn {
 .col-12 {width: 100%;}
 
 .jumbotron {
-	
+	width: 100%;
+	height: auto;
 }
 
 .jumbotron h1 {
