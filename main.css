@@ -95,7 +95,10 @@ li a:hover, .dropdown:hover .dropbtn {
 		background-color: #4dc3ff;
 		border-bottom: 1px solid #bfbfbf;}
 	.nav-menu ul li:last-child { /*styling to give menu lines between links*/
-		border-bottom: none}
+		border-bottom: none;
+		background-color: #4dc3ff;
+		float: left;
+	}
 }
 
 /*highlight current menu tab so user knows which page they are on. Have to update <a> for each actual webpage*/
