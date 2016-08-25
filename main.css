@@ -1,10 +1,14 @@
 .page-header a {
 	margin: auto;
+	width: 50%;
 	text-align: center;
 	padding:10px 10px 10px 10px;
+	border: 1px solid gray;
 }
 .logo {
 	margin: auto;
+	width: 50%;
+	border: 1px solid gray;
 }
 /* Nav Menu styling for responsive navigation*/
 .nav-menu {
