@@ -81,7 +81,6 @@ li a:hover, .dropdown:hover .dropbtn {
 	}
 	.nav-menu {
 		display: none;
-		height: 35px;
 	}
 	.nav-expanded {
 		display: block;}
