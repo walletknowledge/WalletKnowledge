@@ -76,7 +76,7 @@
 		box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.3);
 		cursor: pointer;
 	}
-@media screen and (orientation: landscape) {
+@media screen and (orientation:landscape) {
 	
 	.menu-trigger {
 		display: block;
