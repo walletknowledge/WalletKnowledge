@@ -7,11 +7,11 @@
 .nav-menu {
     list-style-type: none;
     margin: 0;
-	padding-top: px;
-	margin-left: -9px;
+    padding-top: px;
+    margin-left: -9px;
     overflow: hidden;
     background-color: #1ab2ff; /*light blue that I like*/
-	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.3);}
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.3);}
 .navbar {
 	margin: 0;
 	padding: 0;}
@@ -22,44 +22,44 @@
 .menu-trigger {
 	display: none;}
 /*dropdown menu button styling*/
-	li a, .dropbtn {
+li a, .dropbtn {
     	display: inline-block;
     	color: white;
-		font-family: arial;
-		font-size: 12px;
-		text-align: center;
-		letter-spacing: 2px;
+	font-family: arial;
+	font-size: 12px;
+	text-align: center;
+	letter-spacing: 2px;
     	padding: 11px 12px;
-  		text-decoration: none;
-		transition: all 0.3s ease 0s;}
+  	text-decoration: none;
+	transition: all 0.3s ease 0s;}
 	
-	.navbar a:hover {
+.navbar a:hover {
     	background-color: #111;
     	color: white;}
 	
-	.navbar a:hover:not(.active) {
+.navbar a:hover:not(.active) {
     	background-color: #555;
     	color: white;}
 
-	li a:hover, .dropdown:hover .dropbtn {
-		background-color: #555;}
-	.dropdown-content {
+li a:hover, .dropdown:hover .dropbtn {
+	background-color: #555;}
+.dropdown-content {
     	display: none;
     	position: absolute;
     	background-color: #f9f9f9;
     	min-width: 150px;
     	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);}
-	.dropdown-content a {
+.dropdown-content a {
     	color: black;
     	padding: 8px 16px;
     	text-decoration: none;
     	display: block;
     	text-align: left;}
-	.dropdown-content a:hover {background-color: #f1f1f1}
-	.dropdown:hover .dropdown-content {
+.dropdown-content a:hover {background-color: #f1f1f1}
+.dropdown:hover .dropdown-content {
     	display: block;}
-	.dropdown:hover .dropdown-content {
-		display: block;}	
+.dropdown:hover .dropdown-content {
+	display: block;}	
 
 
 @media screen and (max-width: 655px) {
@@ -72,7 +72,7 @@
 		margin-left: -9px;
 	    	overflow: hidden;
 		text-align: right;
-		font-size: 14;
+		font-size: 12;
 		font-family: arial;
 		box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.3);
 		cursor: pointer;
