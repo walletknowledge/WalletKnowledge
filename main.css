@@ -120,8 +120,13 @@ li a:hover, .dropdown:hover .dropbtn {
 }
 
 .jumbotron h1 {
-	
 }
+
+#jumbotron {
+	margin: auto;
+	max-width: 1400px;
+}	
+
 .content {
 	margin: auto;
 }
