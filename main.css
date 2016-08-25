@@ -6,7 +6,7 @@
 /* Nav Menu styling for responsive navigation*/
 .nav-menu {
     list-style-type: none;
-    height: 15px;
+    height: 35px;
     margin: 0;
     padding-top: px;
     margin-left: -9px;
@@ -67,7 +67,6 @@ li a:hover, .dropdown:hover .dropbtn {
 	
 	.menu-trigger {
 		display: block;
-		height: 35px;
 		color: white;
 		background-color: #1ab2ff;
 		padding: 10px;
@@ -80,7 +79,9 @@ li a:hover, .dropdown:hover .dropbtn {
 		cursor: pointer;
 	}
 	.nav-menu {
-		display: none;}
+		display: none;
+		height: 35px;
+	}
 	.nav-expanded {
 		display: block;}
 	.nav-menu ul li {  /*styling to give menu lines between links*/
@@ -105,7 +106,7 @@ li a:hover, .dropdown:hover .dropbtn {
 .col-4 {width: 33.33%;}
 .col-5 {width: 41.66%;}
 .col-6 {width: 50%;}
-.col-7 {width: 58.33%;}
+col-7 {width: 58.33%;}
 .col-8 {width: 66.66%;}
 .col-9 {width: 75%;}
 .col-10 {width: 83.33%;}
