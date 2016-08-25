@@ -1,5 +1,6 @@
-.page-header a img {
+.page-header a {
 	margin: auto;
+	text-align: center;
 	padding:10px 10px 10px 10px;
 }
 
