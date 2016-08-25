@@ -92,7 +92,7 @@ li a:hover, .dropdown:hover .dropbtn {
 		display: block;}
 	.nav-menu ul li {  /*styling to give menu lines between links*/
 		float: none;	
-		background-color: #f9f9f9;
+		background-color: #4dc3ff;
 		border-bottom: 1px solid #bfbfbf;}
 	.nav-menu ul li:last-child { /*styling to give menu lines between links*/
 		border-bottom: none}
