@@ -496,7 +496,7 @@ form label {
   margin: 0;
   padding: 0;
   color: white;
-  text-transform: uppercase;
+  text-transform: ;
 }
 #gtco-header .display-tc h1,
 #gtco-counter .display-tc h1,
@@ -527,7 +527,7 @@ form label {
   color: #52d3aa;
   border: none !important;
   font-size: 18px;
-  text-transform: uppercase;
+  text-transform: ;
 }
 #gtco-header .display-tc .btn:hover,
 #gtco-counter .display-tc .btn:hover,
